@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: url(/images/abdullah-arif-HiENMowCYHg-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.number-box {
+  margin: 0px 20px;
+  padding: 10px;
+  min-width: 81px;
+}
